@@ -1,0 +1,4 @@
+com\categoria\Categoria.class
+com\categoria\CategoriaService.class
+com\categoria\CategoriaRepository.class
+com\categoria\CategoriaController.class
