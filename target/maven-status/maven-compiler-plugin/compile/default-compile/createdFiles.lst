@@ -1,4 +1,9 @@
-com\categoria\Categoria.class
-com\categoria\CategoriaService.class
-com\categoria\CategoriaRepository.class
-com\categoria\CategoriaController.class
+com\category\CategoryService.class
+com\category\CategoryRepository.class
+com\category\CategoryController.class
+com\exception\ResourceNotFoundException.class
+com\product\Product.class
+com\product\ProductService.class
+com\product\ProductRepository.class
+com\product\ProductController.class
+com\category\Category.class
